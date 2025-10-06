@@ -175,3 +175,12 @@ docker compose up --build
 ## License
 
 - MIT for code; ISO XSDs follow their own licensing per the provider.
+
+
+---- 
+
+Upcoming:
+- Comprehensive Testing
+- Implement Monitoring
+- Performance Optimizations
+
