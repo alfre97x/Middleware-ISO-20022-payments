@@ -217,7 +217,7 @@ Embeddable widget for integration into other applications.
 
 ## Authentication
 
-Currently, the API is open for development. For production deployment, consider implementing:
+Currently, the API is open for development. For production deployment, some suggested considerations are:
 - API key authentication
 - JWT tokens
 - OAuth 2.0
@@ -225,8 +225,8 @@ Currently, the API is open for development. For production deployment, consider 
 
 ## Rate Limits
 
-No rate limits are currently implemented. For production, consider:
-- 100 requests per minute per IP
+No rate limits are currently implemented. For production, some suggested things to consider:
+- 100 requests per minute per IP 
 - 1000 requests per hour per API key
 - Burst protection for high-volume usage
 
