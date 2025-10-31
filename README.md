@@ -175,3 +175,15 @@ docker compose up --build
 ## License
 
 - MIT for code; ISO XSDs follow their own licensing per the provider.
+
+## Additional Documentation
+
+https://deepwiki.com/TheVictorMunoz/ISO20022-Translator-V2
+
+---- 
+
+Upcoming:
+- Comprehensive Testing
+- Implement Monitoring
+- Performance Optimizations
+
